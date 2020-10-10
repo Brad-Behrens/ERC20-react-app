@@ -1,0 +1,26 @@
+{
+  "name": "erc20-react-app",
+  "version": "1.0.0",
+  "description": "Implementation of the ERC20 token standard connected to a react application.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brad-Behrens/ERC20-react-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brad-Behrens/ERC20-react-app/issues"
+  },
+  "homepage": "https://github.com/Brad-Behrens/ERC20-react-app#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
